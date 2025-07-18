@@ -250,5 +250,3 @@ While this application is designed for Windows with Outlook, Mac users can set u
 This tutorial covers alternative methods for calendar integration on macOS, including using AppleScript, Calendar app automation, and cross-platform solutions.
 
 ---
-
-*Built with ❤️ for busy professionals who want to start their day organized and informed.*
